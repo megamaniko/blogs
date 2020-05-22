@@ -1,0 +1,14 @@
+{
+  "ads":"false",
+  "update":[{
+    "version":"1",
+    "title":"This app is now Open Source",
+    "description":"The App is available...",
+    "size":"https://git.io/JeY69"
+  }],
+  "blocked":[    
+  ],
+  "free":[
+    {"id":0, "file":0, "city":"LSM","country":"Argentina","image":"Argentina","ip":"200.45.249.254","active":"true","signal":"a"},
+    ]
+}
